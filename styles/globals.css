@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Gothic A1', sans-serif;
+}
+
+.searchbar-body {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchbar-body input {
+  margin: 20px auto;
+  border: 1px solid #000;
+  width: 500px;
+  background-color: #ffffff;
+  padding: 20px;
+  font-size: 32px;
+  color: #000;
+  border-radius: 50px;
+}
+
+.searchbar-body input:focus {
+  outline: none;
+}
+
+.post-card {
+  border-top: 1px solid #000;
+}
+
+.yellow {
+  background-color: #ffff00;
+}
+
+.letter {
+  font-size: 32px;
+}
+
+.field {
+  display: flex;
+}
+
+.fieldname {
+  width: 250px;
+}

@@ -1,0 +1,5117 @@
+[
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f55"
+    },
+    "Name": "Birdhwal R.S.(Suratgarh)",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ganganagar",
+    "Division": "Sriganganagar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "335804"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f56"
+    },
+    "Name": "Bodhan (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Bardoli",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "394140"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f57"
+    },
+    "Name": "Farm Colony Suratgarh",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ganganagar",
+    "Division": "Sriganganagar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "335804"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f58"
+    },
+    "Name": "Kotli Surat Malhi",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Punjab",
+    "District": "Gurdaspur",
+    "Division": "Gurdaspur",
+    "Region": "Chandigarh Region",
+    "State": "Punjab",
+    "Country": "India",
+    "Pincode": "143605"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f59"
+    },
+    "Name": "Mahuva (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Bardoli",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "394250"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f5a"
+    },
+    "Name": "Mora (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "394517"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f5b"
+    },
+    "Name": "Palsana (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Bardoli",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "394315"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f5c"
+    },
+    "Name": "Piplod (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395007"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f5d"
+    },
+    "Name": "Ramnagar (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395009"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f5e"
+    },
+    "Name": "Rustampura (Surat)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f5f"
+    },
+    "Name": "STPS Suratgarh",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ganganagar",
+    "Division": "Sriganganagar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "335805"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f60"
+    },
+    "Name": "Surat",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395003"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f61"
+    },
+    "Name": "Surat City",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395003"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f62"
+    },
+    "Name": "Surat RS",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395003"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f63"
+    },
+    "Name": "Surat Textile Market",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Gujarat",
+    "District": "Surat",
+    "Division": "Surat",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "395002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f64"
+    },
+    "Name": "Surata",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Dungarpur",
+    "Division": "Dungarpur",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "314037"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f65"
+    },
+    "Name": "Suratganj",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Barabanki",
+    "Division": "Barabanki",
+    "Region": "Lucknow  HQ",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "225304"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f66"
+    },
+    "Name": "Suratgaon",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Osmanabad",
+    "Division": "Osmanabad",
+    "Region": "Aurangabad",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "413623"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f67"
+    },
+    "Name": "Suratgarh",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Alwar",
+    "Division": "Alwar",
+    "Region": "Jaipur HQ",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "301022"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f68"
+    },
+    "Name": "Suratgarh",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ganganagar",
+    "Division": "Sriganganagar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "335804"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f69"
+    },
+    "Name": "Suratgarh City",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ganganagar",
+    "Division": "Sriganganagar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "335804"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f6a"
+    },
+    "Name": "Surathkal",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Dakshina Kannada",
+    "Division": "Mangalore",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "575014"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f6b"
+    },
+    "Name": "Suratnagar",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Kheri",
+    "Division": "Kheri",
+    "Region": "Bareilly",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "262906"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f6c"
+    },
+    "Name": "Suratpura",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Hanumangarh",
+    "Division": "Sriganganagar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "335503"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f6d"
+    },
+    "Name": "Suratpura",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Dausa",
+    "Division": "Jaipur Moffusil",
+    "Region": "Jaipur HQ",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "303504"
+  },
+  {
+    "_id": {
+      "$oid": "63d3570220e0d1abe0769f6e"
+    },
+    "Name": "Suratpura",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Churu",
+    "Division": "Churu",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "331023"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f6f"
+    },
+    "Name": "Airport (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400099"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f70"
+    },
+    "Name": "Ambewadi (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  South",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400004"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f71"
+    },
+    "Name": "Azad Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400053"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f72"
+    },
+    "Name": "Bharat Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400007"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f73"
+    },
+    "Name": "Daulat Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400066"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f74"
+    },
+    "Name": "Gokhale Road (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400028"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f75"
+    },
+    "Name": "Goregaon (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400104"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f76"
+    },
+    "Name": "High Court Building (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  South",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400032"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f77"
+    },
+    "Name": "Kidwai Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400031"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f78"
+    },
+    "Name": "Mandvi (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400003"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f79"
+    },
+    "Name": "Mantralaya (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  South",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400032"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f7a"
+    },
+    "Name": "Mumbai ",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai G.P.O.",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f7b"
+    },
+    "Name": "Mumbai Central",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400008"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f7c"
+    },
+    "Name": "Naigaon (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400014"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f7d"
+    },
+    "Name": "Nehru Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400024"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f7e"
+    },
+    "Name": "Nehru Road (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400080"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f7f"
+    },
+    "Name": "Rajbhavan (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400035"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f80"
+    },
+    "Name": "Rajendra Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400066"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f81"
+    },
+    "Name": "Shivaji Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400043"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f82"
+    },
+    "Name": "Shivaji Park (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  West",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400028"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f83"
+    },
+    "Name": "Tilak Nagar (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  North East",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400089"
+  },
+  {
+    "_id": {
+      "$oid": "63d3575020e0d1abe0769f84"
+    },
+    "Name": "Town Hall (Mumbai)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Maharashtra",
+    "District": "Mumbai",
+    "Division": "Mumbai  South",
+    "Region": "Mumbai",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "400001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f85"
+    },
+    "Name": "Adarsh Nagar (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f86"
+    },
+    "Name": "Ajmer",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Rajkot",
+    "Division": "Gondal",
+    "Region": "Rajkot",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "360055"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f87"
+    },
+    "Name": "Ajmer",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f88"
+    },
+    "Name": "Ajmer Road",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Jaipur",
+    "Division": "Jaipur City",
+    "Region": "Jaipur HQ",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "302006"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f89"
+    },
+    "Name": "Ajmer Saundana",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Nashik",
+    "Division": "Malegaon",
+    "Region": "Aurangabad",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "423301"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f8a"
+    },
+    "Name": "Ajmeri",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Sikar",
+    "Division": "Sikar",
+    "Region": "Jodhpur",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "332701"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f8b"
+    },
+    "Name": "Ajmeri Badshahpur",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Ambedkar Nagar",
+    "Division": "Faizabad",
+    "Region": "Lucknow  HQ",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "224190"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f8c"
+    },
+    "Name": "Ajmeri Gate Extn.",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Delhi",
+    "District": "Central Delhi",
+    "Division": "New Delhi Central",
+    "Region": "Delhi",
+    "State": "Delhi",
+    "Country": "India",
+    "Pincode": "110002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f8d"
+    },
+    "Name": "Alwar Gate Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f8e"
+    },
+    "Name": "Ashok Marg Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f8f"
+    },
+    "Name": "Bhajan Ganj Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f90"
+    },
+    "Name": "Crpf Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305005"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f91"
+    },
+    "Name": "Dargha Shareef Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f92"
+    },
+    "Name": "Dhan Mandi Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f93"
+    },
+    "Name": "Ganj Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f94"
+    },
+    "Name": "Gc Road Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305007"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f95"
+    },
+    "Name": "Gujar Dharti Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f96"
+    },
+    "Name": "Hmt Ajmer Dtso",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305003"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f97"
+    },
+    "Name": "Ie Makhu Pura Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f98"
+    },
+    "Name": "Jln Hospital Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f99"
+    },
+    "Name": "Jones Ganj Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f9a"
+    },
+    "Name": "Kaiser Ganj Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f9b"
+    },
+    "Name": "Kutchery (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f9c"
+    },
+    "Name": "Loco Work Shop Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f9d"
+    },
+    "Name": "Mds University Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305009"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f9e"
+    },
+    "Name": "Nagla Ajmeri",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Budaun",
+    "Division": "Budaun",
+    "Region": "Bareilly",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "243722"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769f9f"
+    },
+    "Name": "Nagra Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa0"
+    },
+    "Name": "Naka Madar Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305007"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa1"
+    },
+    "Name": "Naya Bazar (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa2"
+    },
+    "Name": "Pal Beesla Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305007"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa3"
+    },
+    "Name": "Raj Garh (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305205"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa4"
+    },
+    "Name": "Raj. Edu. Board Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa5"
+    },
+    "Name": "Ram Ganj Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305003"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa6"
+    },
+    "Name": "Ramsar (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Beawar",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305402"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa7"
+    },
+    "Name": "Regional College Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305004"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa8"
+    },
+    "Name": "RPSC Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fa9"
+    },
+    "Name": "Session Court Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769faa"
+    },
+    "Name": "Shastri Nagar (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fab"
+    },
+    "Name": "Shivaji Nagar (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305801"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fac"
+    },
+    "Name": "Srinagar (Ajmer)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305025"
+  },
+  {
+    "_id": {
+      "$oid": "63d3578d20e0d1abe0769fad"
+    },
+    "Name": "Vaishali Nagar Ajmer",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Rajasthan",
+    "District": "Ajmer",
+    "Division": "Ajmer",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "305004"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fae"
+    },
+    "Name": "Abhangapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nizamabad",
+    "Division": "Nizamabad",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "503245"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769faf"
+    },
+    "Name": "Anandapuram (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530052"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb0"
+    },
+    "Name": "Anolipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jagatsinghapur",
+    "Division": "Cuttack South",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754140"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb1"
+    },
+    "Name": "Arakhapatna",
+    "BranchType": "Branch Office directly a/w Head Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack South",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754029"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb2"
+    },
+    "Name": "Arjunpur Brahmachari Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jajapur",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "755036"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb3"
+    },
+    "Name": "Ashok Nagar (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800020"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb4"
+    },
+    "Name": "Athagadapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Ganjam",
+    "Division": "Berhampur",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "761105"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb5"
+    },
+    "Name": "Baliapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754215"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb6"
+    },
+    "Name": "Balipatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Khorda",
+    "Division": "Bhubaneswar",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752102"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb7"
+    },
+    "Name": "Banadevi Patna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Ganjam",
+    "Division": "Aska",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "761104"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb8"
+    },
+    "Name": "Bandhapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754246"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fb9"
+    },
+    "Name": "Bank Road (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fba"
+    },
+    "Name": "Banmalipurpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Nayagarh",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752077"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fbb"
+    },
+    "Name": "Banpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "West Midnapore",
+    "Division": "Midnapore",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "721301"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fbc"
+    },
+    "Name": "Barh (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Nalanda",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "803213"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fbd"
+    },
+    "Name": "Basapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Koppal",
+    "Division": "Gadag",
+    "Region": "North Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "583235"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fbe"
+    },
+    "Name": "Basavapatna (Davangere)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Davangere",
+    "Division": "Shimoga",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "577551"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fbf"
+    },
+    "Name": "Basavapatna (Hassan)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Hassan",
+    "Division": "Hassan",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "573113"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc0"
+    },
+    "Name": "Begampur (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800009"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc1"
+    },
+    "Name": "Belapadapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Nayagarh",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752085"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc2"
+    },
+    "Name": "Bennabhupalapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531118"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc3"
+    },
+    "Name": "Bhadaur (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Nalanda",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "803307"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc4"
+    },
+    "Name": "Bhatpatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Khorda",
+    "Division": "Bhubaneswar",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752115"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc5"
+    },
+    "Name": "Bhawanipatna",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc6"
+    },
+    "Name": "Bhawanipatna B.B.Pada",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc7"
+    },
+    "Name": "Bhawanipatna Collectorate",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc8"
+    },
+    "Name": "Bhawanipatna CollegeSquare",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fc9"
+    },
+    "Name": "Bhawanipatna G.Chowk",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fca"
+    },
+    "Name": "Bhawanipatna Naktiguda",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fcb"
+    },
+    "Name": "Bhawanipatna Stadium",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fcc"
+    },
+    "Name": "Bheemunipatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531163"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fcd"
+    },
+    "Name": "Bhoopalapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Karim Nagar",
+    "Division": "Karimnagar",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "505415"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fce"
+    },
+    "Name": "Bhopalpatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Chattisgarh",
+    "District": "Bijapur(CGH)",
+    "Division": "Bastar",
+    "Region": "Raipur",
+    "State": "Chattisgarh",
+    "Country": "India",
+    "Pincode": "494446"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fcf"
+    },
+    "Name": "Bhuasunipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Khorda",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752061"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd0"
+    },
+    "Name": "Bhujabalapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Gudivada",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521340"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd1"
+    },
+    "Name": "Bhyravapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Gudivada",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521345"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd2"
+    },
+    "Name": "Bihta (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "801103"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd3"
+    },
+    "Name": "Biswanathpur Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "West Midnapore",
+    "Division": "Midnapore",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "721156"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd4"
+    },
+    "Name": "Bodakpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Bhadrak",
+    "Division": "Bhadrak",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756135"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd5"
+    },
+    "Name": "Bukkapatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Tumkur",
+    "Division": "Tumkur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "572115"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd6"
+    },
+    "Name": "Bukkapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Tumkur",
+    "Division": "Tumkur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "572129"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd7"
+    },
+    "Name": "Bukkapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Cuddapah",
+    "Division": "Proddatur",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "516474"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd8"
+    },
+    "Name": "Bukkapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Ananthapur",
+    "Division": "Hindupur",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "515144"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fd9"
+    },
+    "Name": "Calingapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Srikakulam",
+    "Division": "Srikakulam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "532406"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fda"
+    },
+    "Name": "Channapatna",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Ramanagar",
+    "Division": "Channapatna",
+    "Region": "Bangalore HQ",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "562160"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fdb"
+    },
+    "Name": "Channapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Bellary",
+    "Division": "Bellary",
+    "Region": "North Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "583113"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fdc"
+    },
+    "Name": "Channapatna Bazar",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Karnataka",
+    "District": "Ramanagar",
+    "Division": "Channapatna",
+    "Region": "Bangalore HQ",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "562160"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fdd"
+    },
+    "Name": "Channapatna Extn",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Karnataka",
+    "District": "Hassan",
+    "Division": "Hassan",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "573201"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fde"
+    },
+    "Name": "Channarayapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Bangalore Rural",
+    "Division": "Channapatna",
+    "Region": "Bangalore HQ",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "562135"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fdf"
+    },
+    "Name": "Channarayapatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Hassan",
+    "Division": "Hassan",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "573116"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe0"
+    },
+    "Name": "Channarayapatna Fort",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Karnataka",
+    "District": "Hassan",
+    "Division": "Hassan",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "573116"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe1"
+    },
+    "Name": "Chitamanpur Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Pratapgarh",
+    "Division": "Pratapgarh",
+    "Region": "Allahabad",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "230128"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe2"
+    },
+    "Name": "Dabardhuapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Khorda",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752066"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe3"
+    },
+    "Name": "Devagiripatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Warangal",
+    "Division": "Hanamkonda",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "506352"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe4"
+    },
+    "Name": "Devarapalli (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531030"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe5"
+    },
+    "Name": "Devarayapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Tumkur",
+    "Division": "Tumkur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "572104"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe6"
+    },
+    "Name": "Devipatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Rajahmundry",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533339"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe7"
+    },
+    "Name": "Dhansarpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack City",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754008"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe8"
+    },
+    "Name": "Dhirapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Dhenkanal",
+    "Division": "Dhenkanal",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "759015"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fe9"
+    },
+    "Name": "Digha (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800012"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fea"
+    },
+    "Name": "Donkala Kothapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Vizianagaram",
+    "Division": "Parvathipuram",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "535527"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769feb"
+    },
+    "Name": "Dugarajapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nellore",
+    "Division": "Gudur",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "524403"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fec"
+    },
+    "Name": "Dulakhapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jajapur",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "755025"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fed"
+    },
+    "Name": "Dyavapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Mandya",
+    "Division": "Mandya",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571417"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fee"
+    },
+    "Name": "Gandhigram (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530005"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fef"
+    },
+    "Name": "Gandhinagaram (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff0"
+    },
+    "Name": "Gangapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nellore",
+    "Division": "Nellore",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "524313"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff1"
+    },
+    "Name": "Gatiroutpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack City",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754100"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff2"
+    },
+    "Name": "Gondiapatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Dhenkanal",
+    "Division": "Dhenkanal",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "759016"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff3"
+    },
+    "Name": "Gopalapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530027"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff4"
+    },
+    "Name": "Gopalapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531127"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff5"
+    },
+    "Name": "Gopaljewpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754250"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff6"
+    },
+    "Name": "Gopinath Patna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Ganjam",
+    "Division": "Aska",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "761104"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff7"
+    },
+    "Name": "Goudapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Khorda",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752038"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff8"
+    },
+    "Name": "Gowripatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531036"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ff9"
+    },
+    "Name": "Gowripatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "West Godavari",
+    "Division": "Tadepalligudem",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "534313"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ffa"
+    },
+    "Name": "Gududapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Baleswar",
+    "Division": "Balasore",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756019"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ffb"
+    },
+    "Name": "Haldia Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "East Midnapore",
+    "Division": "Contai",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "721441"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ffc"
+    },
+    "Name": "Hampa Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Bellary",
+    "Division": "Bellary",
+    "Region": "North Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "583222"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ffd"
+    },
+    "Name": "Hillpatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Ganjam",
+    "Division": "Berhampur",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "760005"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769ffe"
+    },
+    "Name": "Ibrahimpatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Mahabub Nagar",
+    "Division": "Mahabubnagar",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "509351"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe0769fff"
+    },
+    "Name": "Ibrahimpatnam (K.V.Rangareddy)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "K.V.Rangareddy",
+    "Division": "Hyderabad South East",
+    "Region": "Hyderabad City",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "501506"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a000"
+    },
+    "Name": "Ibrahimpatnam (Karim Nagar)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Karim Nagar",
+    "Division": "Karimnagar",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "505450"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a001"
+    },
+    "Name": "Ibrahimpatnam (Krishna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Vijayawada",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521456"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a002"
+    },
+    "Name": "Industrial Estate (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530007"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a003"
+    },
+    "Name": "Jaipatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766018"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a004"
+    },
+    "Name": "Jalasuanpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendujhar",
+    "Division": "Keonjhar",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "758025"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a005"
+    },
+    "Name": "Jambupatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Rajahmundry",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533289"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a006"
+    },
+    "Name": "Jerusalempatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Tamilnadu",
+    "District": "Tuticorin",
+    "Division": "Tuticorin",
+    "Region": "Madurai",
+    "State": "Tamil Nadu",
+    "Country": "India",
+    "Pincode": "628218"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a007"
+    },
+    "Name": "Jugsaipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a008"
+    },
+    "Name": "Kailasapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531085"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a009"
+    },
+    "Name": "Kale Narpatnagar",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Samastipur",
+    "Division": "Samastipur",
+    "Region": "Muzaffarpur",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "848206"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a00a"
+    },
+    "Name": "Kalipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "West Godavari",
+    "Division": "Bhimavaram",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "534281"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a00b"
+    },
+    "Name": "Karilopatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754223"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a00c"
+    },
+    "Name": "Kashipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Dakshina Kannada",
+    "Division": "Puttur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "574236"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a00d"
+    },
+    "Name": "Kasipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Vizianagaram",
+    "Division": "Parvathipuram",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "535547"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a00e"
+    },
+    "Name": "Kasipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Vizianagaram",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "535145"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a00f"
+    },
+    "Name": "Katra Bazar (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800008"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a010"
+    },
+    "Name": "Kayalpatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Tamilnadu",
+    "District": "Tuticorin",
+    "Division": "Tuticorin",
+    "Region": "Madurai",
+    "State": "Tamil Nadu",
+    "Country": "India",
+    "Pincode": "628204"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a011"
+    },
+    "Name": "Kayalpatnam Bazaar",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Tamilnadu",
+    "District": "Tuticorin",
+    "Division": "Tuticorin",
+    "Region": "Madurai",
+    "State": "Tamil Nadu",
+    "Country": "India",
+    "Pincode": "628204"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a012"
+    },
+    "Name": "Kendupatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754203"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a013"
+    },
+    "Name": "Keshavapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Karim Nagar",
+    "Division": "Peddapalli",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "505490"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a014"
+    },
+    "Name": "Khalkatapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Puri",
+    "Division": "Bhubaneswar",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752111"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a015"
+    },
+    "Name": "Khambeswari Patna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Ganjam",
+    "Division": "Aska",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "761110"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a016"
+    },
+    "Name": "Komaragiripatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Amalapuram",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533210"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a017"
+    },
+    "Name": "Kothakota (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531114"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a018"
+    },
+    "Name": "Kothapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack City",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a019"
+    },
+    "Name": "Kothapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nellore",
+    "Division": "Gudur",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "524411"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a01a"
+    },
+    "Name": "Kothapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Prakasam",
+    "Division": "Prakasam",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "523286"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a01b"
+    },
+    "Name": "Kothapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531114"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a01c"
+    },
+    "Name": "Krishna Bazar(Narsipatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531118"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a01d"
+    },
+    "Name": "Krishnapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nellore",
+    "Division": "Nellore",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "524344"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a01e"
+    },
+    "Name": "Krushnanagarpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Puri",
+    "Division": "Bhubaneswar",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752108"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a01f"
+    },
+    "Name": "Krushnapali Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack City",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754009"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a020"
+    },
+    "Name": "Kulasekarapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Tamilnadu",
+    "District": "Tuticorin",
+    "Division": "Tuticorin",
+    "Region": "Madurai",
+    "State": "Tamil Nadu",
+    "Country": "India",
+    "Pincode": "628206"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a021"
+    },
+    "Name": "Kulasekarapatnam South",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Tamilnadu",
+    "District": "Tuticorin",
+    "Division": "Tuticorin",
+    "Region": "Madurai",
+    "State": "Tamil Nadu",
+    "Country": "India",
+    "Pincode": "628206"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a022"
+    },
+    "Name": "Kundapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jajapur",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "755008"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a023"
+    },
+    "Name": "Lakkavaram (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531075"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a024"
+    },
+    "Name": "Lingapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Mandya",
+    "Division": "Mandya",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571421"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a025"
+    },
+    "Name": "M B Patnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531115"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a026"
+    },
+    "Name": "M K Patnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531118"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a027"
+    },
+    "Name": "Machilipatnam",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Machilipatnam",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a028"
+    },
+    "Name": "Madhavapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Kakinada",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533005"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a029"
+    },
+    "Name": "Madhupatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack City",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "753010"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a02a"
+    },
+    "Name": "Mahadevapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "West Godavari",
+    "Division": "Bhimavaram",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "534199"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a02b"
+    },
+    "Name": "Mahulpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kalahandi",
+    "Division": "Kalahandi",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "766026"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a02c"
+    },
+    "Name": "Mahulpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Mayurbhanj",
+    "Division": "Mayurbhanj",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "757028"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a02d"
+    },
+    "Name": "Malakapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Machilipatnam",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a02e"
+    },
+    "Name": "Malapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754215"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a02f"
+    },
+    "Name": "Malinenipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Cuddapah",
+    "Division": "Cuddapah",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "516501"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a030"
+    },
+    "Name": "Mallipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Hassan",
+    "Division": "Hassan",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "573102"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a031"
+    },
+    "Name": "Mangapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Cuddapah",
+    "Division": "Proddatur",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "516444"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a032"
+    },
+    "Name": "Manikapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754215"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a033"
+    },
+    "Name": "Manipur Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Sultanpur",
+    "Division": "Sultanpur",
+    "Region": "Lucknow  HQ",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "228125"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a034"
+    },
+    "Name": "Mithapur (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a035"
+    },
+    "Name": "Mohammad Nagarpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Baleswar",
+    "Division": "Balasore",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756086"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a036"
+    },
+    "Name": "Mohantypatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jajapur",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "755036"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a037"
+    },
+    "Name": "Molkapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nalgonda",
+    "Division": "Suryapet",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "508217"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a038"
+    },
+    "Name": "Mukanahallipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Tumkur",
+    "Division": "Tumkur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "572216"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a039"
+    },
+    "Name": "Mukundapur Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendujhar",
+    "Division": "Keonjhar",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "758027"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a03a"
+    },
+    "Name": "Muthupatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Tamilnadu",
+    "District": "Sivaganga",
+    "Division": "Karaikudi",
+    "Region": "Madurai",
+    "State": "Tamil Nadu",
+    "Country": "India",
+    "Pincode": "630001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a03b"
+    },
+    "Name": "Mylarapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Mandya",
+    "Division": "Mandya",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571432"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a03c"
+    },
+    "Name": "N Naredrapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Kakinada",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533406"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a03d"
+    },
+    "Name": "Nabapatna",
+    "BranchType": "Branch Office directly a/w Head Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jagatsinghapur",
+    "Division": "Cuttack South",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754103"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a03e"
+    },
+    "Name": "Nagapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Cuddapah",
+    "Division": "Cuddapah",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "516203"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a03f"
+    },
+    "Name": "Nahangapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Jajapur",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "755008"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a040"
+    },
+    "Name": "Nanjarayapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Kodagu",
+    "Division": "Kodagu",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571234"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a041"
+    },
+    "Name": "Narayanpatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Koraput",
+    "Division": "Koraput",
+    "Region": "Berhampur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "764014"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a042"
+    },
+    "Name": "Narendrapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Kakinada",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533435"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a043"
+    },
+    "Name": "Narsipatnam",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Anakapalle",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "531116"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a044"
+    },
+    "Name": "Naya Tola (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800004"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a045"
+    },
+    "Name": "Neora (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "801113"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a046"
+    },
+    "Name": "Nilgiripatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Khorda",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752019"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a047"
+    },
+    "Name": "Nizampatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Guntur",
+    "Division": "Tenali",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "522314"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a048"
+    },
+    "Name": "Nuapatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack South",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754035"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a049"
+    },
+    "Name": "Nuapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack City",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754004"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a04a"
+    },
+    "Name": "Nuapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Cuttack",
+    "Division": "Cuttack South",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754032"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a04b"
+    },
+    "Name": "Paduvalapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Mandya",
+    "Division": "Mandya",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571432"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a04c"
+    },
+    "Name": "Parpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "North 24 Parganas",
+    "Division": "Barasat",
+    "Region": "Calcutta",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "743438"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a04d"
+    },
+    "Name": "Paschimpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "East Midnapore",
+    "Division": "Tamluk",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "721659"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a04e"
+    },
+    "Name": "Pathapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Srikakulam",
+    "Division": "Srikakulam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "532213"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a04f"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Lalitpur",
+    "Division": "Jhansi",
+    "Region": "Agra",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "284406"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a050"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "Hooghly",
+    "Division": "Hooghly North",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "712148"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a051"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Baleswar",
+    "Division": "Balasore",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756020"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a052"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Satna",
+    "Division": "Rewa",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "485331"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a053"
+    },
+    "Name": "Patna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Chattisgarh",
+    "District": "Koriya",
+    "Division": "Raigarh",
+    "Region": "Raipur",
+    "State": "Chattisgarh",
+    "Country": "India",
+    "Pincode": "497331"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a054"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Narmada",
+    "Division": "Bharuch",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "393145"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a055"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Barabanki",
+    "Division": "Barabanki",
+    "Region": "Lucknow  HQ",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "225301"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a056"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Rajasthan",
+    "District": "Baran",
+    "Division": "Kota",
+    "Region": "Ajmer",
+    "State": "Rajasthan",
+    "Country": "India",
+    "Pincode": "325218"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a057"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Sidhi",
+    "Division": "Shahdol",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "486776"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a058"
+    },
+    "Name": "Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Gorakhpur",
+    "Division": "Gorakhpur",
+    "Region": "Gorakhpur",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "273402"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a059"
+    },
+    "Name": "Patna ",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna GPO",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a05a"
+    },
+    "Name": "Patna (Malji)",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Bhavnagar",
+    "Division": "Bhavnagar",
+    "Region": "Rajkot",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "364730"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a05b"
+    },
+    "Name": "Patna Aerodrome",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800014"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a05c"
+    },
+    "Name": "Patna Airwa",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Auraiya",
+    "Division": "Etawah",
+    "Region": "Agra",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "206252"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a05d"
+    },
+    "Name": "Patna Baijnatpurwa",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Kheri",
+    "Division": "Kheri",
+    "Region": "Bareilly",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "262728"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a05e"
+    },
+    "Name": "Patna Bhal",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Bhavnagar",
+    "Division": "Bhavnagar",
+    "Region": "Rajkot",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "364310"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a05f"
+    },
+    "Name": "Patna Bhangarh",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Damoh",
+    "Division": "Sagar",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "470664"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a060"
+    },
+    "Name": "Patna Buzurg",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Sagar",
+    "Division": "Sagar",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "470228"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a061"
+    },
+    "Name": "Patna City",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800008"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a062"
+    },
+    "Name": "Patna Collectoriate",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a063"
+    },
+    "Name": "Patna Devkali",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Shahjahanpur",
+    "Division": "Shahjahanpur",
+    "Region": "Bareilly",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "242127"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a064"
+    },
+    "Name": "Patna Ghesiyari",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Bahraich",
+    "Division": "Bahraich",
+    "Region": "Gorakhpur",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "271875"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a065"
+    },
+    "Name": "Patna High Court",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800028"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a066"
+    },
+    "Name": "Patna Khargaura",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Shrawasti",
+    "Division": "Bahraich",
+    "Region": "Gorakhpur",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "271831"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a067"
+    },
+    "Name": "Patna Khurai",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Sagar",
+    "Division": "Sagar",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "470223"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a068"
+    },
+    "Name": "Patna Kuva",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Gandhi Nagar",
+    "Division": "Gandhinagar",
+    "Region": "Ahmedabad HQ",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "382315"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a069"
+    },
+    "Name": "Patna Malhipur",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Uttar Pradesh",
+    "District": "Shrawasti",
+    "Division": "Bahraich",
+    "Region": "Gorakhpur",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "Pincode": "271803"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a06a"
+    },
+    "Name": "Patna Sectt.",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800015"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a06b"
+    },
+    "Name": "Patna University",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800005"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a06c"
+    },
+    "Name": "Patnabazar",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "West Midnapore",
+    "Division": "Midnapore",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "721156"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a06d"
+    },
+    "Name": "Patnadevi",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Maharashtra",
+    "District": "Jalgaon",
+    "Division": "Jalgaon",
+    "Region": "Aurangabad",
+    "State": "Maharashtra",
+    "Country": "India",
+    "Pincode": "424119"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a06e"
+    },
+    "Name": "Patnagarh",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Balangir",
+    "Division": "Balangir",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "767025"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a06f"
+    },
+    "Name": "Patnagarh Bazar",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Odisha",
+    "District": "Balangir",
+    "Division": "Balangir",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "767025"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a070"
+    },
+    "Name": "Patnagere",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Chickmagalur",
+    "Division": "Chikmagalur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "577548"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a071"
+    },
+    "Name": "Patnakalan",
+    "BranchType": "Branch Office directly a/w Head Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Anuppur",
+    "Division": "Shahdol",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "484001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a072"
+    },
+    "Name": "Patnakot",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Chattisgarh",
+    "District": "Surguja",
+    "Division": "Raigarh",
+    "Region": "Raipur",
+    "State": "Chattisgarh",
+    "Country": "India",
+    "Pincode": "497229"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a073"
+    },
+    "Name": "Patnakuya",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Damoh",
+    "Division": "Sagar",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "470881"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a074"
+    },
+    "Name": "Patnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Ananthapur",
+    "Division": "Hindupur",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "515501"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a075"
+    },
+    "Name": "Patnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Chittoor",
+    "Division": "Chittoor",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "517131"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a076"
+    },
+    "Name": "Patnamau",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Gujarat",
+    "District": "Narmada",
+    "Division": "Bharuch",
+    "Region": "Vadodara",
+    "State": "Gujarat",
+    "Country": "India",
+    "Pincode": "393050"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a077"
+    },
+    "Name": "Patnamishrapur",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Bhadrak",
+    "Division": "Bhadrak",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756130"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a078"
+    },
+    "Name": "Patnapur",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Adilabad",
+    "Division": "Adilabad",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "504311"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a079"
+    },
+    "Name": "Patnapur",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Adilabad",
+    "Division": "Adilabad",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "504304"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a07a"
+    },
+    "Name": "Patnaraja",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Madhya Pradesh",
+    "District": "Damoh",
+    "Division": "Sagar",
+    "Region": "Bhopal HQ",
+    "State": "Madhya Pradesh",
+    "Country": "India",
+    "Pincode": "470880"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a07b"
+    },
+    "Name": "Patnaun",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Himachal Pradesh",
+    "District": "Hamirpur(HP)",
+    "Division": "Hamirpur",
+    "Region": "Shimla HQ",
+    "State": "Himachal Pradesh",
+    "Country": "India",
+    "Pincode": "177023"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a07c"
+    },
+    "Name": "Patnaur",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "North Dinajpur",
+    "Division": "West Dinajpur",
+    "Region": "North Bengal And Sikkim",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "733201"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a07d"
+    },
+    "Name": "Pedapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Machilipatnam",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521002"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a07e"
+    },
+    "Name": "Pedapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Amalapuram",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533249"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a07f"
+    },
+    "Name": "Pedapatnam Lanka",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Amalapuram",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533247"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a080"
+    },
+    "Name": "Periyapatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Mysore",
+    "Division": "Mysore",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571107"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a081"
+    },
+    "Name": "Purushothapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Vijayawada",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521101"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a082"
+    },
+    "Name": "Purushothapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Guntur",
+    "Division": "Narasaraopet",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "522616"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a083"
+    },
+    "Name": "Purushottapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Khammam",
+    "Division": "Khammam",
+    "Region": "Vijayawada",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "507129"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a084"
+    },
+    "Name": "Purushottapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Rajahmundry",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533287"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a085"
+    },
+    "Name": "Raghavapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Karim Nagar",
+    "Division": "Karimnagar",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "505532"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a086"
+    },
+    "Name": "Raghavapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Warangal",
+    "Division": "Hanamkonda",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "506344"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a087"
+    },
+    "Name": "Raghunathpur K Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754244"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a088"
+    },
+    "Name": "Raipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Karim Nagar",
+    "Division": "Karimnagar",
+    "Region": "Hyderabad",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "505425"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a089"
+    },
+    "Name": "Rajendra Nagar (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800016"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a08a"
+    },
+    "Name": "Ramapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Chikkaballapur",
+    "Division": "Kolar",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "561209"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a08b"
+    },
+    "Name": "Ramapatnam",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Prakasam",
+    "Division": "Prakasam",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "523291"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a08c"
+    },
+    "Name": "Ranganipatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Nayagarh",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752081"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a08d"
+    },
+    "Name": "Rayabhupalapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Kakinada",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533437"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a08e"
+    },
+    "Name": "Rayapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Khammam",
+    "Division": "Khammam",
+    "Region": "Vijayawada",
+    "State": "Telangana",
+    "Country": "India",
+    "Pincode": "507203"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a08f"
+    },
+    "Name": "Rudrapatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Hassan",
+    "Division": "Hassan",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "573150"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a090"
+    },
+    "Name": "Sakrepatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Chickmagalur",
+    "Division": "Chikmagalur",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "577135"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a091"
+    },
+    "Name": "Sangapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Kurnool",
+    "Division": "Nandyal",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "518196"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a092"
+    },
+    "Name": "Satpatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Nayagarh",
+    "Division": "Puri",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "752091"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a093"
+    },
+    "Name": "Sheikhpura (Patna)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Bihar",
+    "District": "Patna",
+    "Division": "Patna",
+    "Region": "Patna HQ",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "800014"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a094"
+    },
+    "Name": "Shivarapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Kolar",
+    "Division": "Kolar",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "563130"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a095"
+    },
+    "Name": "Shyamsundarpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "West Bengal",
+    "District": "East Midnapore",
+    "Division": "Tamluk",
+    "Region": "South Bengal",
+    "State": "West Bengal",
+    "Country": "India",
+    "Pincode": "721139"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a096"
+    },
+    "Name": "Siswa Patna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Bihar",
+    "District": "East Champaran",
+    "Division": "East Champaran",
+    "Region": "Muzaffarpur",
+    "State": "Bihar",
+    "Country": "India",
+    "Pincode": "845432"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a097"
+    },
+    "Name": "Srikrishnapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Rajahmundry",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533296"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a098"
+    },
+    "Name": "Srirampalpatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754217"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a099"
+    },
+    "Name": "Srirangapatna",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Karnataka",
+    "District": "Mandya",
+    "Division": "Mandya",
+    "Region": "South Karnataka",
+    "State": "Karnataka",
+    "Country": "India",
+    "Pincode": "571438"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a09a"
+    },
+    "Name": "Srirangapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "East Godavari",
+    "Division": "Rajahmundry",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "533289"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a09b"
+    },
+    "Name": "Sukhsandhapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Baleswar",
+    "Division": "Balasore",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756036"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a09c"
+    },
+    "Name": "Swampatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendujhar",
+    "Division": "Keonjhar",
+    "Region": "Sambalpur",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "758030"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a09d"
+    },
+    "Name": "Talamanchipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Cuddapah",
+    "Division": "Proddatur",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "516433"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a09e"
+    },
+    "Name": "Tamminapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Nellore",
+    "Division": "Gudur",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "524412"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a09f"
+    },
+    "Name": "Tekkalipatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Srikakulam",
+    "Division": "Srikakulam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "532220"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a0"
+    },
+    "Name": "Thakurpatna",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Kendrapara",
+    "Division": "Cuttack North",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "754250"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a1"
+    },
+    "Name": "Thurukalapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Ananthapur",
+    "Division": "Hindupur",
+    "Region": "Kurnool",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "515123"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a2"
+    },
+    "Name": "Udayganjapatna",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Odisha",
+    "District": "Baleswar",
+    "Division": "Balasore",
+    "Region": "Bhubaneswar HQ",
+    "State": "Odisha",
+    "Country": "India",
+    "Pincode": "756039"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a3"
+    },
+    "Name": "Varahapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Krishna",
+    "Division": "Gudivada",
+    "Region": "Vijayawada",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "521333"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a4"
+    },
+    "Name": "Vasudevapatnam",
+    "BranchType": "Branch Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Srikakulam",
+    "Division": "Srikakulam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "532123"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a5"
+    },
+    "Name": "Vepagunta (Visakhapatnam)",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530047"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a6"
+    },
+    "Name": "Visakhapatnam",
+    "BranchType": "Head Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530001"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a7"
+    },
+    "Name": "Visakhapatnam Airport",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Non-Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530009"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a8"
+    },
+    "Name": "Visakhapatnam Port",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530035"
+  },
+  {
+    "_id": {
+      "$oid": "63d3580020e0d1abe076a0a9"
+    },
+    "Name": "Visakhapatnam Steel Project",
+    "BranchType": "Sub Post Office",
+    "DeliveryStatus": "Delivery",
+    "Circle": "Andhra Pradesh",
+    "District": "Visakhapatnam",
+    "Division": "Visakhapatnam",
+    "Region": "Visakhapatnam",
+    "State": "Andhra Pradesh",
+    "Country": "India",
+    "Pincode": "530031"
+  }
+]
